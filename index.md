@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Hi!](https://github.com/manwithaplan-pepsiman/WeShallOvercome/main.html)
+[Hi!](https://github.com/manwithaplan-pepsiman/WeShallOvercome/hi)
 
 You can use the [editor on GitHub](https://github.com/manwithaplan-pepsiman/WeShallOvercome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
